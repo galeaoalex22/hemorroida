@@ -10,7 +10,8 @@ O projeto está salvo e funcional. A página foi testada no desktop e no celular
 - Benefícios e conteúdo do e-book.
 - Quatro bônus com nomes, capas, descrições, valor individual riscado e selo GRÁTIS.
 - Plano Básico e Plano Mais Completo, com destaque visual.
-- Preços definidos: Plano Básico por R$ 23,90 e Plano Mais Completo por R$ 29,90.
+- Preços definidos: Plano Básico por R$ 23,90 ou em até 7x de R$ 3,91; Plano Mais Completo por R$ 29,90 ou em até 9x de R$ 3,93.
+- Imagens do site convertidas para `.webp` e referências sincronizadas com a pasta `assets`.
 - Montagem promocional com a capa e páginas reais do guia.
 - Faixa fixa de promoção com contagem regressiva de 1 minuto e 30 segundos.
 - Botão principal ampliado na abertura.

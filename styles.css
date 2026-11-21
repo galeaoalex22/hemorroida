@@ -143,6 +143,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .price small { color: var(--coral); font-weight: 800; }
 .price strong { color: var(--wine); font: 700 2.5rem var(--serif); }
 .price span { color: var(--muted); font-size: .8rem; }
+.price .installment { color: var(--wine); font-size: 1rem; font-weight: 800; }
 .checkout-note { max-width: 760px; margin: 2rem auto 0; color: var(--muted); font-size: .82rem; text-align: center; }
 .checkout-note.is-highlighted { color: var(--wine); font-weight: 800; }
 

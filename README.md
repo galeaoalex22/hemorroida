@@ -29,6 +29,12 @@ Depois abra `http://127.0.0.1:8765/`.
 
 Também é possível usar o GitHub Desktop: **File > Add local repository**, escolha esta pasta e publique o repositório.
 
+### Atualizar o site que já está publicado
+
+Substitua no repositório o `index.html`, o `styles.css`, o `script.js`, o `vercel.json` e a pasta `assets` pelos arquivos deste pacote. Envie o conteúdo da pasta do projeto para a raiz do repositório; não envie a pasta do projeto como uma subpasta.
+
+Esta versão usa imagens `.webp`. O `index.html` e a pasta `assets` precisam ser atualizados juntos para que os nomes dos arquivos permaneçam sincronizados.
+
 ## Publicar na Vercel
 
 1. Na Vercel, escolha **Add New > Project**.
