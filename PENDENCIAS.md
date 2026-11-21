@@ -12,6 +12,7 @@ O projeto está salvo e funcional. A página foi testada no desktop e no celular
 - Plano Básico e Plano Mais Completo, com destaque visual.
 - Preços definidos: Plano Básico por R$ 23,90 ou em até 7x de R$ 3,91; Plano Mais Completo por R$ 29,90 ou em até 9x de R$ 3,93.
 - Imagens do site convertidas para `.webp` e referências sincronizadas com a pasta `assets`.
+- Proporções, limites de tamanho e centralização das imagens corrigidos no computador e no celular.
 - Montagem promocional com a capa e páginas reais do guia.
 - Faixa fixa de promoção com contagem regressiva de 1 minuto e 30 segundos.
 - Botão principal ampliado na abertura.
