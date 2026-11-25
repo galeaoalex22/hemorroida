@@ -30,6 +30,12 @@ const observer = new IntersectionObserver((entries) => {
 
 document.querySelectorAll('.reveal').forEach((element) => observer.observe(element));
 
+document.querySelectorAll('.checkout-placeholder').forEach((link) => {
+  link.addEventListener('click', () => {
+    document.querySelector('#aviso-checkout')?.classList.add('is-highlighted');
+  });
+});
+
 const promoMinutes = document.querySelector('#promo-minutes');
 const promoSeconds = document.querySelector('#promo-seconds');
 const promoCountdown = document.querySelector('.promo-countdown');
