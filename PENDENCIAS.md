@@ -9,8 +9,8 @@ O projeto está salvo e funcional. A página foi testada no desktop e no celular
 - Benefícios e conteúdo do e-book.
 - Quatro bônus com nomes, capas, descrições, valor riscado e selo GRÁTIS.
 - Plano Básico e Plano Mais Completo, com destaque visual.
-- Preços de R$ 23,90 e R$ 29,90, com parcelamento informado.
-- Links de pagamento da Hotmart nos dois planos.
+- Preços atualizados para R$ 19,90 (Básico) e R$ 24,90 (Mais Completo), com links de checkout da Wiapy.
+- Links de checkout da Wiapy configurados nos dois planos.
 - Faixa fixa de promoção com contagem regressiva de 1 minuto e 30 segundos.
 - Botão principal ampliado na abertura.
 - Garantia de 15 dias.
